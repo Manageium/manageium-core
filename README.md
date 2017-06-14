@@ -1,1 +1,1 @@
-# manageium-core
+# Manageium-core
